@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Zwierzeta">
+      <UniqueIdentifier>{0e34f826-884c-4cc6-a8df-2a923a349b1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rosliny">
+      <UniqueIdentifier>{ede96eb2-5ec5-4f5a-915e-d6e89c7d8f22}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Zwierze.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Roslina.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="KlasyRoslin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="KlasyZwierzat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Swiat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Organizm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Organizm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Swiat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Zwierze.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Roslina.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Antylopa.cpp">
+      <Filter>Source Files\Zwierzeta</Filter>
+    </ClCompile>
+    <ClCompile Include="Czlowiek.cpp">
+      <Filter>Source Files\Zwierzeta</Filter>
+    </ClCompile>
+    <ClCompile Include="Lis.cpp">
+      <Filter>Source Files\Zwierzeta</Filter>
+    </ClCompile>
+    <ClCompile Include="Owca.cpp">
+      <Filter>Source Files\Zwierzeta</Filter>
+    </ClCompile>
+    <ClCompile Include="Wilk.cpp">
+      <Filter>Source Files\Zwierzeta</Filter>
+    </ClCompile>
+    <ClCompile Include="Zolw.cpp">
+      <Filter>Source Files\Zwierzeta</Filter>
+    </ClCompile>
+    <ClCompile Include="Trawa.cpp">
+      <Filter>Source Files\Rosliny</Filter>
+    </ClCompile>
+    <ClCompile Include="WilczeJagody.cpp">
+      <Filter>Source Files\Rosliny</Filter>
+    </ClCompile>
+    <ClCompile Include="Mlecz.cpp">
+      <Filter>Source Files\Rosliny</Filter>
+    </ClCompile>
+    <ClCompile Include="Guarana.cpp">
+      <Filter>Source Files\Rosliny</Filter>
+    </ClCompile>
+    <ClCompile Include="BarszczSosnowskiego.cpp">
+      <Filter>Source Files\Rosliny</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

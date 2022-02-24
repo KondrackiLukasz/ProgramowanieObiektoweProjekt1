@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\dev\vs\PoProject1\main.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PoProject1.vcxproj -> C:\dev\vs\PoProject1\Debug\PoProject1.exe

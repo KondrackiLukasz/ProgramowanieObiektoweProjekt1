@@ -1,0 +1,22 @@
+﻿  Antylopa.cpp
+  BarszczSosnowskiego.cpp
+C:\dev\vs\PoProject1\KlasyRoslin.h(20,7): error C3668: 'Guarana::kolizja': method with override specifier 'override' did not override any base class methods
+  Czlowiek.cpp
+  Guarana.cpp
+C:\dev\vs\PoProject1\KlasyRoslin.h(20,7): error C3668: 'Guarana::kolizja': method with override specifier 'override' did not override any base class methods
+  Lis.cpp
+  main.cpp
+C:\dev\vs\PoProject1\KlasyRoslin.h(20,7): error C3668: 'Guarana::kolizja': method with override specifier 'override' did not override any base class methods
+C:\dev\vs\PoProject1\main.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Mlecz.cpp
+C:\dev\vs\PoProject1\KlasyRoslin.h(20,7): error C3668: 'Guarana::kolizja': method with override specifier 'override' did not override any base class methods
+  Owca.cpp
+  Swiat.cpp
+C:\dev\vs\PoProject1\KlasyRoslin.h(20,7): error C3668: 'Guarana::kolizja': method with override specifier 'override' did not override any base class methods
+  Trawa.cpp
+C:\dev\vs\PoProject1\KlasyRoslin.h(20,7): error C3668: 'Guarana::kolizja': method with override specifier 'override' did not override any base class methods
+  WilczeJagody.cpp
+C:\dev\vs\PoProject1\KlasyRoslin.h(20,7): error C3668: 'Guarana::kolizja': method with override specifier 'override' did not override any base class methods
+  Wilk.cpp
+  Zolw.cpp
+  Zwierze.cpp
